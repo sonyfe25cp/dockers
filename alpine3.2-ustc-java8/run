@@ -1,0 +1,1 @@
+docker build -t alpine3.2-ustc-java:8 .
