@@ -1,2 +1,26 @@
-# dockers
-some Dockerfile for daily work
+##适合于国内使用的docker镜像
+
+如果你在国内，那么dockerhub提供的很多镜像还是没办法直接用。
+
+原因？
+
+原因就是国内的网速太次，很多系统的源是不行的，例如alpine和ubuntu。
+
+###针对alpine
+
+将其官方的源修改为ustc的源。
+
+###针对ubuntu
+
+将其官方源修改为163的源。
+
+###使用方法
+
+各文件内有run文件，执行之。
+
+推荐使用alpine的版本，ubuntu版本的镜像实在太大。
+
+
+
+
+
