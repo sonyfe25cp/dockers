@@ -1,1 +1,1 @@
-docker build -t alpine3.2-ustc-tomcat:8 .
+docker build  --no-cache -t alpine3.2-ustc-tomcat:8 .
